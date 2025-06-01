@@ -1,4 +1,5 @@
 React To-Do List App
+
 This is a simple To-Do List application built with React. It allows users to add, remove, and mark tasks as completed. The app supports task filtering (all, completed, incomplete) and stores tasks in the browser’s localStorage so your tasks stay saved on page reload.
 
 Features
