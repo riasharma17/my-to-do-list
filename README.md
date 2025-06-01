@@ -27,32 +27,6 @@ Filter Tasks: Use the "All", "Completed", and "Incomplete" buttons to filter the
 
 Edit Tasks: Click the "Edit" button, change the task text, and click "Save" or "Cancel".
 
-Installation and Setup
-Clone the repository:
-
-bash
-Copy
-Edit
-git clone <repository-url>
-Navigate to the project folder:
-
-bash
-Copy
-Edit
-cd todo-list-react
-Install dependencies:
-
-nginx
-Copy
-Edit
-npm install
-Start the development server:
-
-sql
-Copy
-Edit
-npm start
-Open your browser at http://localhost:3000 to use the app.
 
 Notes
 Sorting tasks by date or alphabetically is not included in this version.
